@@ -1,0 +1,33 @@
+D:\Kuliah\Semester 7\Asdos Pemdesk\File Latihan\koneksi oracle\bin\Debug\net6.0-windows\koneksi oracle.exe
+D:\Kuliah\Semester 7\Asdos Pemdesk\File Latihan\koneksi oracle\bin\Debug\net6.0-windows\koneksi oracle.deps.json
+D:\Kuliah\Semester 7\Asdos Pemdesk\File Latihan\koneksi oracle\bin\Debug\net6.0-windows\koneksi oracle.runtimeconfig.json
+D:\Kuliah\Semester 7\Asdos Pemdesk\File Latihan\koneksi oracle\bin\Debug\net6.0-windows\koneksi oracle.dll
+D:\Kuliah\Semester 7\Asdos Pemdesk\File Latihan\koneksi oracle\bin\Debug\net6.0-windows\koneksi oracle.pdb
+D:\Kuliah\Semester 7\Asdos Pemdesk\File Latihan\koneksi oracle\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
+D:\Kuliah\Semester 7\Asdos Pemdesk\File Latihan\koneksi oracle\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+D:\Kuliah\Semester 7\Asdos Pemdesk\File Latihan\koneksi oracle\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+D:\Kuliah\Semester 7\Asdos Pemdesk\File Latihan\koneksi oracle\bin\Debug\net6.0-windows\System.Formats.Asn1.dll
+D:\Kuliah\Semester 7\Asdos Pemdesk\File Latihan\koneksi oracle\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Kuliah\Semester 7\Asdos Pemdesk\File Latihan\koneksi oracle\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Kuliah\Semester 7\Asdos Pemdesk\File Latihan\koneksi oracle\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\Kuliah\Semester 7\Asdos Pemdesk\File Latihan\koneksi oracle\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\Kuliah\Semester 7\Asdos Pemdesk\File Latihan\koneksi oracle\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\Kuliah\Semester 7\Asdos Pemdesk\File Latihan\koneksi oracle\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Kuliah\Semester 7\Asdos Pemdesk\File Latihan\koneksi oracle\obj\Debug\net6.0-windows\koneksi oracle.vbproj.AssemblyReference.cache
+D:\Kuliah\Semester 7\Asdos Pemdesk\File Latihan\koneksi oracle\obj\Debug\net6.0-windows\koneksi_oracle.Form1.resources
+D:\Kuliah\Semester 7\Asdos Pemdesk\File Latihan\koneksi oracle\obj\Debug\net6.0-windows\koneksi oracle.vbproj.GenerateResource.cache
+D:\Kuliah\Semester 7\Asdos Pemdesk\File Latihan\koneksi oracle\obj\Debug\net6.0-windows\koneksi oracle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Semester 7\Asdos Pemdesk\File Latihan\koneksi oracle\obj\Debug\net6.0-windows\koneksi oracle.AssemblyInfoInputs.cache
+D:\Kuliah\Semester 7\Asdos Pemdesk\File Latihan\koneksi oracle\obj\Debug\net6.0-windows\koneksi oracle.AssemblyInfo.vb
+D:\Kuliah\Semester 7\Asdos Pemdesk\File Latihan\koneksi oracle\obj\Debug\net6.0-windows\koneksi oracle.vbproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 7\Asdos Pemdesk\File Latihan\koneksi oracle\obj\Debug\net6.0-windows\koneksi oracle.vbproj.CopyComplete
+D:\Kuliah\Semester 7\Asdos Pemdesk\File Latihan\koneksi oracle\obj\Debug\net6.0-windows\koneksi oracle.dll
+D:\Kuliah\Semester 7\Asdos Pemdesk\File Latihan\koneksi oracle\obj\Debug\net6.0-windows\refint\koneksi oracle.dll
+D:\Kuliah\Semester 7\Asdos Pemdesk\File Latihan\koneksi oracle\obj\Debug\net6.0-windows\koneksi oracle.pdb
+D:\Kuliah\Semester 7\Asdos Pemdesk\File Latihan\koneksi oracle\obj\Debug\net6.0-windows\koneksi oracle.genruntimeconfig.cache
+D:\Kuliah\Semester 7\Asdos Pemdesk\File Latihan\koneksi oracle\obj\Debug\net6.0-windows\ref\koneksi oracle.dll
+D:\Kuliah\Semester 7\Asdos Pemdesk\File Latihan\koneksi oracle\bin\Debug\net6.0-windows\System.Data.OracleClient.dll
+D:\Kuliah\Semester 7\Asdos Pemdesk\File Latihan\koneksi oracle\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Kuliah\Semester 7\Asdos Pemdesk\File Latihan\koneksi oracle\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\Kuliah\Semester 7\Asdos Pemdesk\File Latihan\koneksi oracle\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\Kuliah\Semester 7\Asdos Pemdesk\File Latihan\koneksi oracle\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
